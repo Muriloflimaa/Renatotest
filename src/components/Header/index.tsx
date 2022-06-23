@@ -3,7 +3,7 @@ import { ActiveLink } from '../ActiveLink'
 import logoImg from '../../../public/images/logo.png'
 import styles from './styles.module.scss'
 import React, { useState, useEffect, FormEvent } from 'react' //
-import { sendContactMail } from '../../pages/services/sendMail'
+import { sendContactMail } from '../../services/sendMail'
 import toast from 'react-hot-toast'
 
 export function Header() {
