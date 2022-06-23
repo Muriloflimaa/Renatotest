@@ -1,0 +1,38 @@
+Mono path[0] = 'C:/Users/muril/Desktop/jogo exe/asddsa_Data/Managed'
+Mono path[1] = 'C:/Users/muril/Desktop/jogo exe/asddsa_Data/Mono'
+Mono config path = 'C:/Users/muril/Desktop/jogo exe/asddsa_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/muril/Desktop/jogo exe/asddsa_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55404
+Multi-casting "[IP] 10.102.32.229 [Port] 55404 [Flags] 2 [Guid] 2283884166 [EditorId] 4182554069 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-1D5ILDG) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55404]
+PlayerConnection already initialized - listening to [0.0.0.0:55404]
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   30.0.101.1340
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\muril\Desktop\jogo exe\asddsa_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.712100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3218 -> priority: 1 
