@@ -31,6 +31,7 @@ export default function Games() {
                         className="bg-verde rounded-lg p-3 text-black font-bold uppercase hover:scale-125 ease-in-out duration-150"
                         href="https://drive.google.com/file/d/14AZuJovCUSK_4dlF7KjjAixIfcFh27yG/view?usp=sharing"
                         download="Game"
+                        target="_blank"
                     >
                         Link manual
                     </a>
