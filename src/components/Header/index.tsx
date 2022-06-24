@@ -21,7 +21,7 @@ export function Header() {
         if (loading) return
 
         if (!nome.trim() || !email.trim() || !mensagem.trim()) {
-            toast('Preencha todos os campos para enviar sua mensagem !!!')
+            toast.error('Preencha todos os campos para enviar sua mensagem !!!')
             return
         }
 
@@ -31,11 +31,11 @@ export function Header() {
             setEmail('')
             setNome('')
             setMensagem('')
-            toast(
+            toast.success(
                 'Mensagem enviada com sucesso, confira também sua caixa de span'
             )
         } catch (err) {
-            toast('Ocorreu um erro tente novamente')
+            toast.error('Ocorreu um erro tente novamente')
         } finally {
             setLoading(false)
         }
