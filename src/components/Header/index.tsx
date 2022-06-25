@@ -47,7 +47,10 @@ export function Header() {
             <header className={styles.headerContainer}>
                 <div className={styles.headerContent}>
                     <div className="w-44 h-auto">
-                        <a href="https://www.instagram.com/muriloflimaa">
+                        <a
+                            href="https://www.instagram.com/muriloflimaa"
+                            target="_blank"
+                        >
                             <Image
                                 src={logoImg}
                                 alt="Murilo Dev"
